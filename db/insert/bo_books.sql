@@ -1,0 +1,12 @@
+INSERT INTO bo.books (id, name, cover_type_id, circulation) VALUES (1, 'Синдзи-кун и пять стадий принятия', 1, 1000);
+INSERT INTO bo.books (id, name, cover_type_id, circulation) VALUES (2, 'Правильный «Червь»', 2, 2000);
+INSERT INTO bo.books (id, name, cover_type_id, circulation) VALUES (3, 'Деньги правят миром', 2, 3000);
+INSERT INTO bo.books (id, name, cover_type_id, circulation) VALUES (4, 'Напряжение', 1, 500);
+INSERT INTO bo.books (id, name, cover_type_id, circulation) VALUES (5, 'Сам себе властелин', 2, 500);
+INSERT INTO bo.books (id, name, cover_type_id, circulation) VALUES (6, 'Очень светлые неприятности', 1, 4400);
+INSERT INTO bo.books (id, name, cover_type_id, circulation) VALUES (7, 'Мама для Совенка. Часть вторая', 1, 500);
+INSERT INTO bo.books (id, name, cover_type_id, circulation) VALUES (8, 'Автократия Гоблинов', 2, 1500);
+INSERT INTO bo.books (id, name, cover_type_id, circulation) VALUES (9, 'Право чёрной розы', 2, 2500);
+INSERT INTO bo.books (id, name, cover_type_id, circulation) VALUES (10, 'Сам себе властелин 4', 1, 500);
+INSERT INTO bo.books (id, name, cover_type_id, circulation) VALUES (11, 'Мама для Совенка. Часть третья', 2, 500);
+INSERT INTO bo.books (id, name, cover_type_id, circulation) VALUES (12, 'Говорят, мы бяки-буки!', 1, 500);
